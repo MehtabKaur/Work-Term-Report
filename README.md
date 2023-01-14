@@ -1,5 +1,4 @@
-# LINK TO WEBSITE
-mehtabkaur.github.io/Work-Term-Report/
+LINK TO WEBSITE: https://mehtabkaur.github.io/Work-Term-Report/
 
 
 
